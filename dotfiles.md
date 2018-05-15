@@ -1,4 +1,4 @@
-footer: https://github.com/glenbot
+footer: https://github.com/glenbot/meetup-may-2018
 slidenumbers: true
 
 # Automating small stuff with Python
@@ -12,7 +12,7 @@ Learn how to create your own `dotfiles` repository with small scripts that help 
 
 # What's a dotfile from a community standpoint?
 
-It's an analogy for your programming setup. This might include:
+It's an synonym for your command line setup. This might include:
 
 * your bash prompt
 * helper scripts
@@ -30,7 +30,7 @@ It's an analogy for your programming setup. This might include:
 
 ---
 
-# Organization of dotfiles repository
+# Anatomy of dotfiles repository
 
 Names here are subjective
 
